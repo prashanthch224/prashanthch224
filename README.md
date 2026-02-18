@@ -54,6 +54,3 @@ I specialize in Data Analytics, Machine Learning, and Deep Learning with hands-o
 
 📫 Open to opportunities in Data Science, Machine Learning, and AI.  
 I’m passionate about building scalable, research-backed AI solutions that create measurable impact.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
